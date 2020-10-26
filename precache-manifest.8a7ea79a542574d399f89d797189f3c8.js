@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59a64ddd1f4e370359f4c8bac4f23aed",
+    "revision": "c64a4474dd03bbf4418042a5375b62fb",
     "url": "/react-dice-game/index.html"
   },
   {
